@@ -8,7 +8,7 @@ csrf = CSRFProtect(app)
 
 @app.route("/")
 def pagina_inicial():
-    return "Group 20 application running successfully"
+    return "Group 20 application running successfully!!!!"
 
 
 if __name__ == '__main__':
